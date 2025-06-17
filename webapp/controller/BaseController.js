@@ -1,8 +1,8 @@
 // @ts-check
 
 sap.ui.define(
-  ["sap/ui/core/mvc/Controller", "sap/ui/core/Fragment", "appnamespace/model/formatter", "sap/ui/model/json/JSONModel"],
-  function (Controller, Fragment, formatter, JSONModel) {
+  ["sap/ui/core/mvc/Controller", "sap/ui/core/Fragment", "appnamespace/model/formatter"],
+  function (Controller, Fragment, formatter) {
     "use strict";
 
     return Controller.extend("appnamespace.controller.BaseController", {
