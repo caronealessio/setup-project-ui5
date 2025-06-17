@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [120],
+  "editor.fontFamily": "Jetbrains Mono Light",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "Default Dark Modern"
+}
