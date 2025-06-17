@@ -69,16 +69,13 @@
         "type": "View",
         "viewType": "XML",
         "path": "appnamespace.view",
-        "async": true,
-        "viewPath": "appnamespace.view"
+        "async": true
       },
       "routes": [
         {
           "name": "RouteHome",
           "pattern": ":?query:",
-          "target": [
-            "TargetHome"
-          ]
+          "target": ["TargetHome"]
         }
       ],
       "targets": {

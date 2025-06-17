@@ -18,6 +18,7 @@ FILES=(
     "webapp/controller/App.controller.js"
     "webapp/controller/Home.controller.js"
     "webapp/model/formatter.js"
+    "webapp/util/generalHelper.js"
     ".vscode/extensions.json"
     ".vscode/settings.json"
     "package.json"
