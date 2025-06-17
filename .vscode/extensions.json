@@ -1,3 +1,29 @@
 {
-  "recommendations": ["esbenp.prettier-vscode", "ms-ceintl.vscode-language-pack-it", "DotJoshJohnson.xml"]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ms-ceintl.vscode-language-pack-it",
+    "DotJoshJohnson.xml",
+    "BrandonCaulfield.advanced-ui5-snippet-generator",
+    "SAPOS.yeoman-ui",
+    "HookyQR.JSDocTagComplete",
+    "SAPOSS.sap-guided-answers-extension",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "SAPOSS.app-studio-remote-access",
+    "SAPOSS.app-studio-toolkit",
+    "SAPSE.sap-ux-application-modeler-extension",
+    "SAPSE.sap-ux-fiori-tools-extension-pack",
+    "SAPSE.sap-ux-help-extension",
+    "SAPSE.sap-ux-service-modeler-extension",
+    "SAPSE.sap-ux-annotation-modeler-extension",
+    "mundoimilazzo.sap-workbech-color-theme",
+    "iljapostnovs.ui5plugin",
+    "michalkozubik.ui5-explorer",
+    "jorgesanux.ui5-icon-explorer",
+    "carlosorozcojimenez.ui5-tools",
+    "SAPOSS.xml-toolkit",
+    "milannankov.vscode-ui5",
+    "SAPOSS.vscode-ui5-language-assistant",
+    "fatihpense.ui5-i18n-plugin"
+  ]
 }
