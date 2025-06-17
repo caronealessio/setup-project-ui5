@@ -20,6 +20,7 @@ FILES=(
     "webapp/model/formatter.js"
     ".vscode/extensions.json"
     ".vscode/settings.json"
+    "package.json"
 )
 
 # Scarica ciascun file e sostituisci tutte le occorrenze di 'appnamespace'

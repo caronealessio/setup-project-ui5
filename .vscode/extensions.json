@@ -1,11 +1,17 @@
 {
   "recommendations": [
+    "jorgesanux.ui5-icon-explorer",
+    "mundoimilazzo.sap-workbech-color-theme",
+    "HookyQR.JSDocTagComplete",
+    "iljapostnovs.ui5plugin",
+    "carlosorozcojimenez.ui5-tools",
+    "michalkozubik.ui5-explorer",
     "esbenp.prettier-vscode",
     "ms-ceintl.vscode-language-pack-it",
     "DotJoshJohnson.xml",
-    "BrandonCaulfield.advanced-ui5-snippet-generator",
-    "SAPOS.yeoman-ui",
-    "HookyQR.JSDocTagComplete",
+    "Codeium.codeium",
+    "fatihpense.ui5-i18n-plugin",
+    "milannankov.vscode-ui5",
     "SAPOSS.sap-guided-answers-extension",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
@@ -16,15 +22,9 @@
     "SAPSE.sap-ux-help-extension",
     "SAPSE.sap-ux-service-modeler-extension",
     "SAPSE.sap-ux-annotation-modeler-extension",
-    "mundoimilazzo.sap-workbech-color-theme",
-    "iljapostnovs.ui5plugin",
-    "michalkozubik.ui5-explorer",
-    "jorgesanux.ui5-icon-explorer",
-    "carlosorozcojimenez.ui5-tools",
     "SAPOSS.xml-toolkit",
-    "milannankov.vscode-ui5",
     "SAPOSS.vscode-ui5-language-assistant",
-    "fatihpense.ui5-i18n-plugin",
-    "Codeium.codeium"
+    "BrandonCaulfield.advanced-ui5-snippet-generator",
+    "SAPOS.yeoman-ui"
   ]
 }
