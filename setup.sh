@@ -15,6 +15,8 @@ BASE_URL="https://raw.githubusercontent.com/caronealessio/setup-project-ui5/main
 # Elenco dei file da scaricare con path completo
 FILES=(
     "webapp/controller/BaseController.js"
+    "webapp/controller/App.controller.js"
+    "webapp/controller/Home.controller.js"
     "webapp/model/formatter.js"
     ".vscode/extensions.json"
     ".vscode/settings.json"

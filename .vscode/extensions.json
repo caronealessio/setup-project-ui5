@@ -24,6 +24,7 @@
     "SAPOSS.xml-toolkit",
     "milannankov.vscode-ui5",
     "SAPOSS.vscode-ui5-language-assistant",
-    "fatihpense.ui5-i18n-plugin"
+    "fatihpense.ui5-i18n-plugin",
+    "Codeium.codeium"
   ]
 }
