@@ -7,7 +7,7 @@ sap.ui.define(["./BaseController"], (BaseController) => {
     },
 
     _onObjectMatched: async function () {
-      console.log("£CIAO");
+      console.log(dayjs().format());
     },
   });
 });
