@@ -20,6 +20,8 @@ FILES=(
     "webapp/model/formatter.js"
     "webapp/utils/generalUtils.js"
     "webapp/utils/entityUtils.js"
+    "webapp/libs/moment.js"
+    "webapp/Component.js"
     ".vscode/extensions.json"
     ".vscode/settings.json"
     "package.json"
