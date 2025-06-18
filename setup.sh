@@ -22,10 +22,10 @@ FILES=(
     "webapp/utils/entityUtils.js"
     "webapp/libs/moment.js"
     "webapp/libs/lodash.js"
+    "webapp/index.html"
     ".vscode/extensions.json"
     ".vscode/settings.json"
     "package.json"
-    "README-setup.md"
 )
 
 # Scarica ciascun file e sostituisci tutte le occorrenze di 'appnamespace'
