@@ -33,7 +33,7 @@
     }
   },
   "sap.ui5": {
-    "flexEnabled": true,
+    "flexEnabled": false,
     "dependencies": {
       "minUI5Version": "1.136.1",
       "libs": {
@@ -74,14 +74,23 @@
       "routes": [
         {
           "name": "home",
-          "pattern": ":?query:",
-          "target": ["TargetHome"]
+          "pattern": "home",
+          "target": ["home"]
+        },
+        {
+          "name": "test",
+          "pattern": "",
+          "target": ["test"]
         }
       ],
       "targets": {
-        "TargetHome": {
-          "id": "Home",
+        "home": {
+          "id": "home",
           "name": "Home"
+        },
+        "test": {
+          "id": "test",
+          "name": "Test"
         }
       }
     },
